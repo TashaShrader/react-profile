@@ -1,0 +1,19 @@
+{
+  "name": "react-profile",
+  "version": "1.0.0",
+  "description": "https://tashashrader.github.io/react-profile/.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TashaShrader/react-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TashaShrader/react-profile/issues"
+  },
+  "homepage": "https://github.com/TashaShrader/react-profile#readme"
+}
