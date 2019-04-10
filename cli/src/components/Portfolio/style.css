@@ -1,0 +1,39 @@
+.project {
+width: 250px;
+position: relative;
+float: left;
+margin: 0px;
+margin-bottom: 5px;
+}
+.clicker {
+margin-top: 3px;
+margin-left: 30%;
+margin-bottom: 5px;
+font-family: 'Luckiest Guy', cursive;
+font-size: 20px;
+}
+h3 {
+position: absolute;
+width: 250px;
+bottom: 10px;
+padding: 15px;
+margin: 0px;
+text-align: center;
+font-family: 'Audiowide', cursive;
+font-size: 15px;
+font-weight: 500;
+background: grey; 
+}
+.container {
+background-color: whitesmoke;
+max-width: 960px;
+width: 100%;
+margin-top:5px;
+padding-top: 15px;
+padding-bottom: 1px;
+border-radius: 10px 10px 40px 40px;
+}
+.row-1 {
+margin-bottom: 0px;
+}
+

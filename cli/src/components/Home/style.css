@@ -1,0 +1,87 @@
+.home {
+background-color: whitesmoke;
+max-width: 960px;
+width: 100%;
+margin-top:5px;
+padding-top: 15px;
+margin-left: auto;
+margin-bottom: 0;
+margin-right: auto;
+border-radius: 10px 10px  0px 0px ;
+
+}
+.row-1 {
+margin-bottom: 0px;
+}
+h1 {
+    margin-bottom: 0;
+}
+.know {
+padding-left: 60px;;
+margin-left: 2px;
+margin-top: 33px;
+text-decoration: underline;
+font-family: 'Audiowide', cursive;
+font-size: 20px;
+margin-bottom: 0;
+}
+.check {
+padding-top: 10px;
+margin-bottom: 5px;
+}
+.lists {
+/* 
+margin-left: 3%;
+font-family: 'Nanum Gothic', sans-serif;
+font-size: 15px; */
+background-color: whitesmoke;
+margin-right: -1%;
+border-radius: 0px 0px 40px 40px;
+margin-top: -10px;
+
+}
+
+.col-xs-4 {
+float: left;
+width: 33%;
+padding-left: 5%;
+padding-right: 5%;
+height: 298px;
+margin-top: 0;
+background-color: whitesmoke;
+}
+.col1 {
+    border-radius: 0px 0px 0px 40px;
+
+}
+.col3 {
+    border-radius: 0px 0px 40px 0px;
+}
+.first {
+margin-left: 0;
+margin-top: 0px;
+width: 70%;
+font-size: 17px;
+font-family: 'Roboto Mono', monospace;
+}
+.me {
+width: 250px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 5px;
+padding: 10px;
+border-radius: 20px;
+}
+.second {
+padding-top: 25px;
+}
+h2 {
+font-family: 'Luckiest Guy', cursive;
+font-size: 20px;
+font-weight: 500;
+padding-top: 2px;
+}
+.space {
+    height: 10px;
+    width: 100%;
+}
